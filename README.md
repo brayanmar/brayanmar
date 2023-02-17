@@ -53,6 +53,6 @@ correo electrónico: brianbrian216@gmail.com
 
 portafolio: https://portafolio-amber-gamma.vercel.app/
 
-Cv (presentation letter ) : https://drive.google.com/file/d/1GICmpw4BujwRffBvFtdPrWjORe28_a8V/view?usp=share_link
+Cv (presentation letter ) : https://drive.google.com/file/d/1ED-Ty8oZRSqLDAo75b5U4QnHG9BoAxgt/view?usp=share_link
 
 Calenly = https://calendly.com/brayanmar/entrevistas-programador-full-stack-developer
