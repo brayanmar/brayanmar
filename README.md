@@ -3,24 +3,31 @@
 
 Hola! 
 Te agradezco por tomarte el tiempo de revisar mi perfil, es un gusto conocerte soy desarrollador full stack web developer con conocimientos en:
+
 METODOLOGIAS:
+
 -SCRUM.
 -UX / UI.
 
 DIRECCION DE PROYECTOS:
+
 -Git Hub
 
 LENGUAJES:
+
 -java
 -javascript
 -typescript
+
 FROND-END:
+
 - react || react/native || nextjs
 - redux || redux toolkit
 - svelte
 - angular
 
 BACK-END
+
 -express
 
 DB
